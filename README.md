@@ -1,2 +1,2 @@
 # openGW
-Implementation of open gateway and open great wall for public cloud！
+Implementation of open gateway and great wall for public cloud！
